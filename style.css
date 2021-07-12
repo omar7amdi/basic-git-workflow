@@ -6,4 +6,6 @@ padding:40px;
 .header{
 font.weight:500;
 }
-
+.hidden{
+display:none;
+}
